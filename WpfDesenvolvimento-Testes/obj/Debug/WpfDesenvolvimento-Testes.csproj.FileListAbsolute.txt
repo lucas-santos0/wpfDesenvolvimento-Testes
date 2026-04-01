@@ -1,0 +1,194 @@
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.g.cs
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.baml
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+P:\Rafa\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.g.cs
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.baml
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+C:\Users\lucas\Downloads\WpfDesenvolvimento-Testes\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.g.cs
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.baml
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+P:\Rafa\WpfDesenvolvimento-Testes2\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes3\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.g.cs
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.baml
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\23090\Downloads\WpfDesenvolvimento-Testes4\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes5\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\WindowTeste.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes6\WpfDesenvolvimento-Testes\obj\Debug\WindowTeste.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\WindowTeste.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\WindowTeste.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\WpfDesenvolvimento-Testes7\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.g.cs
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\WindowTeste.g.cs
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\MainWindow.baml
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\WindowTeste.baml
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+P:\WpfDesenvolvimento-Testes8\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\View\MainWindow.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\View\WindowTeste.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\View\MainWindow.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\atividades 2025\Atividades-Rafa\WpfDesenvolvimento-TestesFinalizado\WpfDesenvolvimento-Testes\obj\Debug\View\WindowTeste.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\View\MainWindow.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\View\WindowTeste.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\View\MainWindow.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\View\WindowTeste.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\bin\Debug\WpfDesenvolvimento-Testes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\View\MainWindow.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\View\WindowTeste.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\App.g.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes_MarkupCompile.lref
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\View\MainWindow.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\View\WindowTeste.baml
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.g.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento_Testes.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Pasta do Lucas\ETEC\3DSA2025\Rafa\WpfDesenvolvimento-TestesFinalizadoFinal\WpfDesenvolvimento-Testes\obj\Debug\WpfDesenvolvimento-Testes.pdb
